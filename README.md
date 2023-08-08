@@ -11,6 +11,8 @@ Classes, objects, constructors.
 3. Create and raise Dasha and Oleg.
 4. Make it possible to change the name throughout life.
 
+**Result:**
+
 ![image](https://github.com/vdcast/Module_1_Lesson_4_hw_1/assets/108469609/28574095-e0e4-493d-a0f2-186e12e40c13)
 
 ![image](https://github.com/vdcast/Module_1_Lesson_4_hw_1/assets/108469609/494b58bf-84a8-4982-99ac-220bd771704a)
