@@ -4,7 +4,7 @@
 
 Classes, objects, constructors.
 
-**Technical task:**
+**Task:**
 
 1. Implement the class Human (Human) from the lesson in your project.
 2. Rewrite the logic so that up to 12 grows by 8, up to 25 grows by 3, then does not grow, and after 60 decreases by 2.
